@@ -1,0 +1,9 @@
+C:\Users\yukiyano\source\repos\ExecuteSQL\ExecuteSQL\bin\Debug\ExecuteSQL.exe.config
+C:\Users\yukiyano\source\repos\ExecuteSQL\ExecuteSQL\bin\Debug\ExecuteSQL.exe
+C:\Users\yukiyano\source\repos\ExecuteSQL\ExecuteSQL\bin\Debug\ExecuteSQL.pdb
+C:\Users\yukiyano\source\repos\ExecuteSQL\ExecuteSQL\obj\Debug\ExecuteSQL.csprojAssemblyReference.cache
+C:\Users\yukiyano\source\repos\ExecuteSQL\ExecuteSQL\obj\Debug\ExecuteSQL.Form1.resources
+C:\Users\yukiyano\source\repos\ExecuteSQL\ExecuteSQL\obj\Debug\ExecuteSQL.Properties.Resources.resources
+C:\Users\yukiyano\source\repos\ExecuteSQL\ExecuteSQL\obj\Debug\ExecuteSQL.csproj.GenerateResource.cache
+C:\Users\yukiyano\source\repos\ExecuteSQL\ExecuteSQL\obj\Debug\ExecuteSQL.exe
+C:\Users\yukiyano\source\repos\ExecuteSQL\ExecuteSQL\obj\Debug\ExecuteSQL.pdb
